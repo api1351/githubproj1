@@ -1,1 +1,1 @@
-echo "Github integration successfull."
+echo "Github integration successfull twice."
