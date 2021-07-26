@@ -1,2 +1,2 @@
 echo "Github integration successfull."
-pwd
+cd
