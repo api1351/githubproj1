@@ -1,2 +1,2 @@
 echo "Github integration successfull."
-cd
+java Main
